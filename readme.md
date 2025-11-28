@@ -4,4 +4,5 @@
 
 In this repository you will find Tic Tac Toe warcrimes. It will consist of the worst ways of making a Tic Tac Toe game. If you think this repository is missing an essential warcrime, feel free to make edits and make a pull request[^1]!
 
-[^1]: Make sure edits are done in a separate brench if you want to have the pull request merged.
+[^1]: Make sure edits are done in a separate branch if you want to have the pull request merged.
+
